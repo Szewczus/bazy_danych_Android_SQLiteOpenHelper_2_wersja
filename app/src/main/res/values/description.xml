@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<resources>
+    <string-array name="Description">
+        <item>Pomidory malinowe</item>
+        <item>Młode ziemniaki </item>
+        <item>Słodka Marchew</item>
+        <item>Pyszne Buraki</item>
+        <item>Młoda Pietruszka</item>
+        <item>Biała Cebula</item>
+        <item>Duży Czosnek</item>
+    </string-array>
+</resources>

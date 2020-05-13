@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bazy_danych_dobrze</string>
+    <string name="stan_magazynu">Stan magazynu</string>
+    <string name="sk_aduj">Składuj</string>
+    <string name="wydaj">Wydaj</string>
+    <string name="ilo">Ilość</string>
+    <string name="defaultValue">Pomidory malinowe</string>
+</resources>
